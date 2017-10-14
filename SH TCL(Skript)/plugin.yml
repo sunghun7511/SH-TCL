@@ -1,0 +1,16 @@
+name: SHTCL
+main: com.SHGroup.SHTCL.Main
+version: 0.2
+author: sunghun7511
+
+commands:
+  TCL:
+    description: SHTCL plug-in's Main command!
+  TCLEvent:
+    description: SHTCL plug-in's Event command!
+  TCLCmd:
+    description: SHTCL plug-in's Command command!
+  TCLOut:
+    description: SHTCL plug-in's Hidden command!
+  TCLRemove:
+    description: SHTCL plug-in's Remove command!
